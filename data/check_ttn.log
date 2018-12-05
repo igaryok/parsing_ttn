@@ -1,0 +1,483 @@
+2018-12-01 01:07:09,564, APP : START parsing
+2018-12-01 01:07:11,204, APP : check for 20450099751117 old status 
+2018-12-01 01:07:11,205, APP : check for 20450099602091 old status 
+2018-12-01 01:07:11,205, APP : check for 59000378125443 old status 
+2018-12-01 01:07:11,205, APP : check for 20450099544635 old status 
+2018-12-01 01:07:11,205, APP : check for 59000377945104 old status 
+2018-12-01 01:07:11,205, APP : check for 20450099547288 old status 
+2018-12-01 01:07:11,205, APP : check for 20450099546171 old status 
+2018-12-01 01:07:11,205, APP : check for 20450099546920 old status 
+2018-12-01 01:07:11,205, APP : check for 20450099689231 old status 
+2018-12-01 01:07:11,206, APP : check for 20450099689582 old status 
+2018-12-01 01:07:11,206, APP : check for 20450099546922 old status 
+2018-12-01 01:07:11,206, APP : check for 20450099559747 old status 
+2018-12-01 01:07:11,206, APP : check for 20450099628716 old status 
+2018-12-01 01:07:11,206, APP : check for 20450099560034 old status 
+2018-12-01 01:07:11,206, APP : check for 20450099583396 old status 
+2018-12-01 01:07:11,206, APP : check for 20450099592279 old status 
+2018-12-01 01:07:11,206, APP : check for 20450099715200 old status 
+2018-12-01 01:07:11,206, APP : check for 20450099629346 old status 
+2018-12-01 01:07:11,492, APP : get new status ('20450099751117', 'Нова пошта очікує надходження від відправника', '1')
+2018-12-01 01:07:11,492, APP : get new status ('20450099602091', 'Відправлення отримано. Грошовий переказ видано одержувачу.', '11')
+2018-12-01 01:07:11,492, APP : get new status ('59000378125443', 'Відправлення отримано. Грошовий переказ видано одержувачу.', '11')
+2018-12-01 01:07:11,492, APP : get new status ('20450099544635', 'Відправлення отримано. Грошовий переказ видано одержувачу.', '11')
+2018-12-01 01:07:11,493, APP : get new status ('59000377945104', 'Відправлення отримано. Грошовий переказ видано одержувачу.', '11')
+2018-12-01 01:07:11,493, APP : get new status ('20450099547288', 'Відправлення отримано. Грошовий переказ видано одержувачу.', '11')
+2018-12-01 01:07:11,493, APP : get new status ('20450099546171', 'Відправлення отримано. Грошовий переказ видано одержувачу.', '11')
+2018-12-01 01:07:11,493, APP : get new status ('20450099546920', 'Відмова від отримання', '102')
+2018-12-01 01:07:11,493, APP : get new status ('20450099689231', 'Відправлення отримано. Грошовий переказ видано одержувачу.', '11')
+2018-12-01 01:07:11,493, APP : get new status ('20450099689582', 'Відправлення отримано. Грошовий переказ видано одержувачу.', '11')
+2018-12-01 01:07:11,493, APP : get new status ('20450099546922', 'Відмова від отримання', '102')
+2018-12-01 01:07:11,493, APP : get new status ('20450099559747', 'Відправлення отримано. Грошовий переказ видано одержувачу.', '11')
+2018-12-01 01:07:11,493, APP : get new status ('20450099628716', 'Відправлення отримано. Грошовий переказ видано одержувачу.', '11')
+2018-12-01 01:07:11,493, APP : get new status ('20450099560034', 'Відправлення отримано. Грошовий переказ видано одержувачу.', '11')
+2018-12-01 01:07:11,494, APP : get new status ('20450099583396', 'Відправлення отримано. Грошовий переказ видано одержувачу.', '11')
+2018-12-01 01:07:11,494, APP : get new status ('20450099592279', 'Відправлення отримано. Грошовий переказ видано одержувачу.', '11')
+2018-12-01 01:07:11,494, APP : get new status ('20450099715200', 'Відправлення отримано. Грошовий переказ видано одержувачу.', '11')
+2018-12-01 01:07:11,494, APP : get new status ('20450099629346', 'Відправлення отримано. Грошовий переказ видано одержувачу.', '11')
+2018-12-01 01:07:11,739, APP : write new status for 20450099751117 in 2 row
+2018-12-01 01:07:13,758, APP : write new status for 20450099602091 in 3 row
+2018-12-01 01:07:14,768, APP : write new status for 59000378125443 in 4 row
+2018-12-01 01:07:15,718, APP : write new status for 20450099544635 in 5 row
+2018-12-01 01:07:16,672, APP : write new status for 59000377945104 in 6 row
+2018-12-01 01:07:17,622, APP : write new status for 20450099547288 in 7 row
+2018-12-01 01:07:18,707, APP : write new status for 20450099546171 in 8 row
+2018-12-01 01:07:19,664, APP : write new status for 20450099546920 in 9 row
+2018-12-01 01:07:20,617, APP : write new status for 20450099689231 in 10 row
+2018-12-01 01:07:21,591, APP : write new status for 20450099689582 in 11 row
+2018-12-01 01:07:22,552, APP : write new status for 20450099546922 in 12 row
+2018-12-01 01:07:23,518, APP : write new status for 20450099559747 in 13 row
+2018-12-01 01:07:24,506, APP : write new status for 20450099628716 in 14 row
+2018-12-01 01:07:25,538, APP : write new status for 20450099560034 in 15 row
+2018-12-01 01:07:26,476, APP : write new status for 20450099583396 in 16 row
+2018-12-01 01:07:27,436, APP : write new status for 20450099592279 in 17 row
+2018-12-01 01:07:28,368, APP : write new status for 20450099715200 in 18 row
+2018-12-01 01:07:29,301, APP : write new status for 20450099629346 in 19 row
+2018-12-01 01:07:30,020, APP : FINISH parsing
+2018-12-01 01:09:05,927, APP : START parsing
+2018-12-01 01:09:07,487, APP : check for 20450099751117 old status ?
+2018-12-01 01:09:07,608, APP : get new status ('20450099751117', 'Нова пошта очікує надходження від відправника', '1')
+2018-12-01 01:09:07,608, APP : 'list' object has no attribute 'strip'
+2018-12-01 20:01:03,188, APP : START parsing
+2018-12-01 20:01:05,531, APP : check for 20450099751117 old status ?
+2018-12-01 20:01:05,868, APP : get new status ('20450099751117', 'Нова пошта очікує надходження від відправника', '1')
+2018-12-01 20:01:05,870, APP : FINISH parsing
+2018-12-01 21:46:57,360, APP : START parsing
+2018-12-01 21:46:59,560, APP : check for 20450099751117 old status ?
+2018-12-01 21:46:59,830, APP : get new status ('20450099751117', 'Нова пошта очікує надходження від відправника', '1')
+2018-12-01 21:46:59,831, APP : FINISH parsing
+2018-12-03 22:28:27,084, APP : START parsing
+2018-12-03 22:28:29,569, APP : ERROR in parsing process : unable to open database file
+2018-12-03 22:53:07,738, APP : START parsing
+2018-12-03 22:53:10,360, APP : ERROR in parsing process : name 'number' is not defined
+2018-12-03 22:59:55,397, APP : START parsing
+2018-12-03 22:59:56,924, APP : ERROR in parsing process : name 'status_t' is not defined
+2018-12-03 23:02:10,194, APP : START parsing
+2018-12-03 23:02:11,741, APP : ERROR in parsing process : NOT NULL constraint failed: ttn.status_text
+2018-12-03 23:20:43,237, APP : START parsing
+2018-12-03 23:20:44,908, APP : write 20450099751117 to database
+2018-12-03 23:20:44,921, APP : write 20450099602091 to database
+2018-12-03 23:20:44,934, APP : write 59000378125443 to database
+2018-12-03 23:20:44,948, APP : write 20450099544635 to database
+2018-12-03 23:20:44,961, APP : write 59000377945104 to database
+2018-12-03 23:20:44,973, APP : write 20450099547288 to database
+2018-12-03 23:20:44,986, APP : write 20450099546171 to database
+2018-12-03 23:20:44,998, APP : write 20450099546920 to database
+2018-12-03 23:20:45,011, APP : write 20450099689231 to database
+2018-12-03 23:20:45,023, APP : write 20450099689582 to database
+2018-12-03 23:20:45,041, APP : write 20450099546922 to database
+2018-12-03 23:20:45,052, APP : write 20450099559747 to database
+2018-12-03 23:20:45,065, APP : write 20450099628716 to database
+2018-12-03 23:20:45,079, APP : write 20450099560034 to database
+2018-12-03 23:20:45,093, APP : write 20450099583396 to database
+2018-12-03 23:20:45,106, APP : write 20450099592279 to database
+2018-12-03 23:20:45,120, APP : write 20450099715200 to database
+2018-12-03 23:20:45,134, APP : write 20450099629346 to database
+2018-12-03 23:20:45,134, APP : check for 20450099751117 old status ?
+2018-12-03 23:20:45,469, APP : get new status ('20450099751117', 'Нова пошта очікує надходження від відправника', '1')
+2018-12-03 23:20:45,469, APP : FINISH parsing
+2018-12-03 23:26:17,303, APP : START parsing
+2018-12-03 23:26:19,036, APP : check for 20450099751117 old status 
+2018-12-03 23:26:19,036, APP : check for 20450099602091 old status 
+2018-12-03 23:26:19,036, APP : check for 59000378125443 old status 
+2018-12-03 23:26:19,036, APP : check for 20450099544635 old status 
+2018-12-03 23:26:19,036, APP : check for 59000377945104 old status 
+2018-12-03 23:26:19,036, APP : check for 20450099547288 old status 
+2018-12-03 23:26:19,036, APP : check for 20450099546171 old status 
+2018-12-03 23:26:19,036, APP : check for 20450099546920 old status 
+2018-12-03 23:26:19,036, APP : check for 20450099689231 old status 
+2018-12-03 23:26:19,036, APP : check for 20450099689582 old status 
+2018-12-03 23:26:19,036, APP : check for 20450099546922 old status 
+2018-12-03 23:26:19,036, APP : check for 20450099559747 old status 
+2018-12-03 23:26:19,036, APP : check for 20450099628716 old status 
+2018-12-03 23:26:19,036, APP : check for 20450099560034 old status 
+2018-12-03 23:26:19,036, APP : check for 20450099583396 old status 
+2018-12-03 23:26:19,036, APP : check for 20450099592279 old status 
+2018-12-03 23:26:19,036, APP : check for 20450099715200 old status 
+2018-12-03 23:26:19,036, APP : check for 20450099629346 old status 
+2018-12-03 23:26:19,331, APP : get new status ('20450099751117', 'Нова пошта очікує надходження від відправника', '1')
+2018-12-03 23:26:19,331, APP : ERROR in parsing process : write_status_db() missing 1 required positional argument: 'row'
+2018-12-03 23:28:45,919, APP : START parsing
+2018-12-03 23:28:47,652, APP : check for 20450099751117 old status 
+2018-12-03 23:28:47,653, APP : check for 20450099602091 old status 
+2018-12-03 23:28:47,653, APP : check for 59000378125443 old status 
+2018-12-03 23:28:47,653, APP : check for 20450099544635 old status 
+2018-12-03 23:28:47,653, APP : check for 59000377945104 old status 
+2018-12-03 23:28:47,653, APP : check for 20450099547288 old status 
+2018-12-03 23:28:47,653, APP : check for 20450099546171 old status 
+2018-12-03 23:28:47,653, APP : check for 20450099546920 old status 
+2018-12-03 23:28:47,653, APP : check for 20450099689231 old status 
+2018-12-03 23:28:47,653, APP : check for 20450099689582 old status 
+2018-12-03 23:28:47,653, APP : check for 20450099546922 old status 
+2018-12-03 23:28:47,653, APP : check for 20450099559747 old status 
+2018-12-03 23:28:47,653, APP : check for 20450099628716 old status 
+2018-12-03 23:28:47,653, APP : check for 20450099560034 old status 
+2018-12-03 23:28:47,653, APP : check for 20450099583396 old status 
+2018-12-03 23:28:47,653, APP : check for 20450099592279 old status 
+2018-12-03 23:28:47,653, APP : check for 20450099715200 old status 
+2018-12-03 23:28:47,653, APP : check for 20450099629346 old status 
+2018-12-03 23:28:47,915, APP : get new status ('20450099751117', 'Нова пошта очікує надходження від відправника', '1')
+2018-12-03 23:28:47,916, APP : ERROR in parsing process : '2'
+2018-12-03 23:29:46,015, APP : START parsing
+2018-12-03 23:29:47,556, APP : check for 20450099751117 old status 
+2018-12-03 23:29:47,556, APP : check for 20450099602091 old status 
+2018-12-03 23:29:47,556, APP : check for 59000378125443 old status 
+2018-12-03 23:29:47,556, APP : check for 20450099544635 old status 
+2018-12-03 23:29:47,556, APP : check for 59000377945104 old status 
+2018-12-03 23:29:47,556, APP : check for 20450099547288 old status 
+2018-12-03 23:29:47,556, APP : check for 20450099546171 old status 
+2018-12-03 23:29:47,557, APP : check for 20450099546920 old status 
+2018-12-03 23:29:47,557, APP : check for 20450099689231 old status 
+2018-12-03 23:29:47,557, APP : check for 20450099689582 old status 
+2018-12-03 23:29:47,557, APP : check for 20450099546922 old status 
+2018-12-03 23:29:47,557, APP : check for 20450099559747 old status 
+2018-12-03 23:29:47,557, APP : check for 20450099628716 old status 
+2018-12-03 23:29:47,557, APP : check for 20450099560034 old status 
+2018-12-03 23:29:47,557, APP : check for 20450099583396 old status 
+2018-12-03 23:29:47,557, APP : check for 20450099592279 old status 
+2018-12-03 23:29:47,557, APP : check for 20450099715200 old status 
+2018-12-03 23:29:47,557, APP : check for 20450099629346 old status 
+2018-12-03 23:29:47,818, APP : get new status ('20450099751117', 'Нова пошта очікує надходження від відправника', '1')
+2018-12-03 23:29:47,818, APP : ERROR in parsing process : '2'
+2018-12-03 23:32:34,237, APP : START parsing
+2018-12-03 23:32:35,827, APP : check for 20450099751117 old status 
+2018-12-03 23:32:35,827, APP : check for 20450099602091 old status 
+2018-12-03 23:32:35,828, APP : check for 59000378125443 old status 
+2018-12-03 23:32:35,828, APP : check for 20450099544635 old status 
+2018-12-03 23:32:35,828, APP : check for 59000377945104 old status 
+2018-12-03 23:32:35,828, APP : check for 20450099547288 old status 
+2018-12-03 23:32:35,828, APP : check for 20450099546171 old status 
+2018-12-03 23:32:35,828, APP : check for 20450099546920 old status 
+2018-12-03 23:32:35,828, APP : check for 20450099689231 old status 
+2018-12-03 23:32:35,828, APP : check for 20450099689582 old status 
+2018-12-03 23:32:35,828, APP : check for 20450099546922 old status 
+2018-12-03 23:32:35,828, APP : check for 20450099559747 old status 
+2018-12-03 23:32:35,828, APP : check for 20450099628716 old status 
+2018-12-03 23:32:35,828, APP : check for 20450099560034 old status 
+2018-12-03 23:32:35,828, APP : check for 20450099583396 old status 
+2018-12-03 23:32:35,828, APP : check for 20450099592279 old status 
+2018-12-03 23:32:35,828, APP : check for 20450099715200 old status 
+2018-12-03 23:32:35,828, APP : check for 20450099629346 old status 
+2018-12-03 23:32:36,190, APP : get new status ('20450099751117', 'Нова пошта очікує надходження від відправника', '1')
+2018-12-03 23:32:36,191, APP : ERROR in parsing process : '2' ('2',)
+2018-12-03 23:36:07,747, APP : START parsing
+2018-12-03 23:36:09,449, APP : check for 20450099751117 old status 
+2018-12-03 23:36:09,449, APP : check for 20450099602091 old status 
+2018-12-03 23:36:09,449, APP : check for 59000378125443 old status 
+2018-12-03 23:36:09,449, APP : check for 20450099544635 old status 
+2018-12-03 23:36:09,449, APP : check for 59000377945104 old status 
+2018-12-03 23:36:09,449, APP : check for 20450099547288 old status 
+2018-12-03 23:36:09,449, APP : check for 20450099546171 old status 
+2018-12-03 23:36:09,449, APP : check for 20450099546920 old status 
+2018-12-03 23:36:09,449, APP : check for 20450099689231 old status 
+2018-12-03 23:36:09,449, APP : check for 20450099689582 old status 
+2018-12-03 23:36:09,449, APP : check for 20450099546922 old status 
+2018-12-03 23:36:09,449, APP : check for 20450099559747 old status 
+2018-12-03 23:36:09,449, APP : check for 20450099628716 old status 
+2018-12-03 23:36:09,449, APP : check for 20450099560034 old status 
+2018-12-03 23:36:09,449, APP : check for 20450099583396 old status 
+2018-12-03 23:36:09,449, APP : check for 20450099592279 old status 
+2018-12-03 23:36:09,449, APP : check for 20450099715200 old status 
+2018-12-03 23:36:09,449, APP : check for 20450099629346 old status 
+2018-12-03 23:36:10,657, APP : ERROR in parsing process : '2'
+2018-12-03 23:38:52,222, APP : START parsing
+2018-12-03 23:38:53,678, APP : check for 20450099751117 old status ?
+2018-12-03 23:38:53,678, APP : check for 20450099602091 old status 
+2018-12-03 23:38:53,678, APP : check for 59000378125443 old status 
+2018-12-03 23:38:53,678, APP : check for 20450099544635 old status 
+2018-12-03 23:38:53,678, APP : check for 59000377945104 old status 
+2018-12-03 23:38:53,678, APP : check for 20450099547288 old status 
+2018-12-03 23:38:53,678, APP : check for 20450099546171 old status 
+2018-12-03 23:38:53,678, APP : check for 20450099546920 old status 
+2018-12-03 23:38:53,678, APP : check for 20450099689231 old status 
+2018-12-03 23:38:53,678, APP : check for 20450099689582 old status 
+2018-12-03 23:38:53,678, APP : check for 20450099546922 old status 
+2018-12-03 23:38:53,678, APP : check for 20450099559747 old status 
+2018-12-03 23:38:53,678, APP : check for 20450099628716 old status 
+2018-12-03 23:38:53,678, APP : check for 20450099560034 old status 
+2018-12-03 23:38:53,678, APP : check for 20450099583396 old status 
+2018-12-03 23:38:53,678, APP : check for 20450099592279 old status 
+2018-12-03 23:38:53,678, APP : check for 20450099715200 old status 
+2018-12-03 23:38:53,678, APP : check for 20450099629346 old status 
+2018-12-03 23:40:05,812, APP : START parsing
+2018-12-03 23:40:07,340, APP : check for 20450099751117 old status ?
+2018-12-03 23:40:07,340, APP : check for 59000378125443 old status 
+2018-12-03 23:40:07,340, APP : check for 20450099544635 old status 
+2018-12-03 23:40:07,340, APP : check for 59000377945104 old status 
+2018-12-03 23:40:07,340, APP : check for 20450099547288 old status 
+2018-12-03 23:40:07,340, APP : check for 20450099546171 old status 
+2018-12-03 23:40:07,340, APP : check for 20450099546920 old status 
+2018-12-03 23:40:07,340, APP : check for 20450099689231 old status 
+2018-12-03 23:40:07,340, APP : check for 20450099689582 old status 
+2018-12-03 23:40:07,341, APP : check for 20450099546922 old status 
+2018-12-03 23:40:07,341, APP : check for 20450099559747 old status 
+2018-12-03 23:40:07,341, APP : check for 20450099628716 old status 
+2018-12-03 23:40:07,341, APP : check for 20450099560034 old status 
+2018-12-03 23:40:07,341, APP : check for 20450099583396 old status 
+2018-12-03 23:40:07,341, APP : check for 20450099592279 old status 
+2018-12-03 23:40:07,341, APP : check for 20450099715200 old status 
+2018-12-03 23:40:07,341, APP : check for 20450099629346 old status 
+2018-12-03 23:40:08,405, APP : write new status for 59000378125443 in 4 row
+2018-12-03 23:47:26,754, APP : START parsing
+2018-12-03 23:47:28,439, APP : check for 20450099751117 old status 
+2018-12-03 23:47:28,439, APP : check for 20450099602091 old status 
+2018-12-03 23:47:28,439, APP : check for 59000378125443 old status 
+2018-12-03 23:47:28,440, APP : check for 20450099544635 old status 
+2018-12-03 23:47:28,440, APP : check for 59000377945104 old status 
+2018-12-03 23:47:28,440, APP : check for 20450099547288 old status 
+2018-12-03 23:47:28,440, APP : check for 20450099546171 old status 
+2018-12-03 23:47:28,440, APP : check for 20450099546920 old status 
+2018-12-03 23:47:28,440, APP : check for 20450099689231 old status 
+2018-12-03 23:47:28,440, APP : check for 20450099689582 old status 
+2018-12-03 23:47:28,440, APP : check for 20450099546922 old status 
+2018-12-03 23:47:28,440, APP : check for 20450099559747 old status 
+2018-12-03 23:47:28,440, APP : check for 20450099628716 old status 
+2018-12-03 23:47:28,440, APP : check for 20450099560034 old status 
+2018-12-03 23:47:28,440, APP : check for 20450099583396 old status 
+2018-12-03 23:47:28,440, APP : check for 20450099592279 old status 
+2018-12-03 23:47:28,440, APP : check for 20450099715200 old status 
+2018-12-03 23:47:28,440, APP : check for 20450099629346 old status 
+2018-12-03 23:47:29,514, APP : write new status for 20450099751117 in 2 row
+2018-12-03 23:47:31,371, APP : write new status for 20450099602091 in 3 row
+2018-12-03 23:47:32,345, APP : write new status for 59000378125443 in 4 row
+2018-12-03 23:47:33,577, APP : write new status for 20450099544635 in 5 row
+2018-12-03 23:47:34,705, APP : write new status for 59000377945104 in 6 row
+2018-12-03 23:47:35,717, APP : write new status for 20450099547288 in 7 row
+2018-12-03 23:47:36,714, APP : write new status for 20450099546171 in 8 row
+2018-12-03 23:47:37,714, APP : write new status for 20450099546920 in 9 row
+2018-12-03 23:47:38,727, APP : write new status for 20450099689231 in 10 row
+2018-12-03 23:47:39,694, APP : write new status for 20450099689582 in 11 row
+2018-12-03 23:47:40,693, APP : write new status for 20450099546922 in 12 row
+2018-12-03 23:47:41,701, APP : write new status for 20450099559747 in 13 row
+2018-12-03 23:47:42,750, APP : write new status for 20450099628716 in 14 row
+2018-12-03 23:47:43,742, APP : write new status for 20450099560034 in 15 row
+2018-12-03 23:47:44,747, APP : write new status for 20450099583396 in 16 row
+2018-12-03 23:47:45,766, APP : write new status for 20450099592279 in 17 row
+2018-12-03 23:47:46,822, APP : write new status for 20450099715200 in 18 row
+2018-12-03 23:47:47,818, APP : write new status for 20450099629346 in 19 row
+2018-12-03 23:47:48,030, APP : FINISH parsing
+2018-12-04 00:32:57,067, APP : START parsing
+2018-12-04 00:32:58,852, APP : write 20450103487517 to database
+2018-12-04 00:32:58,863, APP : write 20450103544783 to database
+2018-12-04 00:32:58,875, APP : write 20450103450052 to database
+2018-12-04 00:32:58,887, APP : write 20450103450155 to database
+2018-12-04 00:32:58,899, APP : write 59000382964878 to database
+2018-12-04 00:32:58,912, APP : write 20450103574088 to database
+2018-12-04 00:32:58,913, APP : check for 20450099751117 old status ?
+2018-12-04 00:32:58,913, APP : check for 20450103487517 old status 
+2018-12-04 00:32:58,913, APP : check for 20450103544783 old status 
+2018-12-04 00:32:58,913, APP : check for 20450103450052 old status 
+2018-12-04 00:32:58,913, APP : check for 20450103450155 old status 
+2018-12-04 00:32:58,913, APP : check for 59000382964878 old status 
+2018-12-04 00:32:58,913, APP : check for 20450103574088 old status 
+2018-12-04 00:32:59,204, APP : FINISH parsing
+2018-12-04 00:33:14,912, APP : START parsing
+2018-12-04 00:33:16,586, APP : check for 20450099751117 old status ?
+2018-12-04 00:33:16,586, APP : check for 20450103487517 old status 
+2018-12-04 00:33:16,586, APP : check for 20450103544783 old status 
+2018-12-04 00:33:16,586, APP : check for 20450103450052 old status 
+2018-12-04 00:33:16,586, APP : check for 20450103450155 old status 
+2018-12-04 00:33:16,586, APP : check for 59000382964878 old status 
+2018-12-04 00:33:16,586, APP : check for 20450103574088 old status 
+2018-12-04 00:33:16,818, APP : FINISH parsing
+2018-12-04 00:36:09,388, APP : START parsing
+2018-12-04 00:36:11,063, APP : check for 20450099751117 old status ?
+2018-12-04 00:36:11,064, APP : check for 20450103487517 old status 
+2018-12-04 00:36:11,064, APP : check for 20450103544783 old status 
+2018-12-04 00:36:11,064, APP : check for 20450103450052 old status 
+2018-12-04 00:36:11,064, APP : check for 20450103450155 old status 
+2018-12-04 00:36:11,064, APP : check for 59000382964878 old status 
+2018-12-04 00:36:11,064, APP : check for 20450103574088 old status 
+2018-12-04 00:36:11,378, APP : FINISH parsing
+2018-12-04 01:03:29,160, APP : START parsing
+2018-12-04 01:03:30,936, APP : check for 20450099751117 old status ?
+2018-12-04 01:03:30,936, APP : check for 20450103487517 old status 
+2018-12-04 01:03:30,936, APP : check for 20450103544783 old status 
+2018-12-04 01:03:30,936, APP : check for 20450103450052 old status 
+2018-12-04 01:03:30,936, APP : check for 20450103450155 old status 
+2018-12-04 01:03:30,936, APP : check for 59000382964878 old status 
+2018-12-04 01:03:30,936, APP : check for 20450103574088 old status 
+2018-12-04 01:03:31,321, APP : FINISH parsing
+2018-12-04 01:04:33,328, APP : START parsing
+2018-12-04 01:04:34,957, APP : write 59000211447503 to database
+2018-12-04 01:04:34,968, APP : write 20450017671661 to database
+2018-12-04 01:04:34,980, APP : write 59000211444257 to database
+2018-12-04 01:04:34,993, APP : write 20400020070023 to database
+2018-12-04 01:04:35,007, APP : write 20450017623090 to database
+2018-12-04 01:04:35,007, APP : check for 20450099751117 old status ?
+2018-12-04 01:04:35,007, APP : check for 20450103487517 old status 
+2018-12-04 01:04:35,007, APP : check for 20450103544783 old status 
+2018-12-04 01:04:35,007, APP : check for 20450103450052 old status 
+2018-12-04 01:04:35,007, APP : check for 20450103450155 old status 
+2018-12-04 01:04:35,008, APP : check for 59000382964878 old status 
+2018-12-04 01:04:35,008, APP : check for 20450103574088 old status 
+2018-12-04 01:04:35,008, APP : check for 59000211447503 old status 
+2018-12-04 01:04:35,008, APP : check for 20450017671661 old status 
+2018-12-04 01:04:35,008, APP : check for 59000211444257 old status 
+2018-12-04 01:04:35,008, APP : check for 20400020070023 old status 
+2018-12-04 01:04:35,008, APP : check for 20450017623090 old status 
+2018-12-04 01:04:36,111, APP : write new status for 59000211447503 in 26 row
+2018-12-04 01:04:37,873, APP : write new status for 20450017671661 in 27 row
+2018-12-04 01:04:39,903, APP : write new status for 59000211444257 in 28 row
+2018-12-04 01:04:41,704, APP : write new status for 20400020070023 in 29 row
+2018-12-04 01:04:43,526, APP : write new status for 20450017623090 in 30 row
+2018-12-04 01:04:44,556, APP : FINISH parsing
+2018-12-04 01:06:06,459, APP : START parsing
+2018-12-04 01:06:08,014, APP : check for 20450099751117 old status ?
+2018-12-04 01:06:08,014, APP : check for 20450103487517 old status 
+2018-12-04 01:06:08,014, APP : check for 20450103544783 old status 
+2018-12-04 01:06:08,014, APP : check for 20450103450052 old status 
+2018-12-04 01:06:08,014, APP : check for 20450103450155 old status 
+2018-12-04 01:06:08,014, APP : check for 59000382964878 old status 
+2018-12-04 01:06:08,014, APP : check for 20450103574088 old status 
+2018-12-04 01:06:08,014, APP : check for 59000211447503 old status ?
+2018-12-04 01:06:08,014, APP : check for 20450017671661 old status ?
+2018-12-04 01:06:08,014, APP : check for 59000211444257 old status ?
+2018-12-04 01:06:08,014, APP : check for 20400020070023 old status ?
+2018-12-04 01:06:08,014, APP : check for 20450017623090 old status ?
+2018-12-04 01:06:08,404, APP : FINISH parsing
+2018-12-04 11:30:43,334, APP : START parsing
+2018-12-04 11:30:46,620, APP : check for 20450099751117 old status ?
+2018-12-04 11:30:46,620, APP : check for 20450103487517 old status 
+2018-12-04 11:30:46,620, APP : check for 20450103544783 old status 
+2018-12-04 11:30:46,620, APP : check for 20450103450052 old status 
+2018-12-04 11:30:46,620, APP : check for 20450103450155 old status 
+2018-12-04 11:30:46,620, APP : check for 59000382964878 old status 
+2018-12-04 11:30:46,620, APP : check for 20450103574088 old status 
+2018-12-04 11:30:46,620, APP : check for 59000211447503 old status ?
+2018-12-04 11:30:46,620, APP : check for 20450017671661 old status ?
+2018-12-04 11:30:46,620, APP : check for 59000211444257 old status ?
+2018-12-04 11:30:46,620, APP : check for 20400020070023 old status ?
+2018-12-04 11:30:46,620, APP : check for 20450017623090 old status ?
+2018-12-04 11:30:47,236, APP : FINISH parsing
+2018-12-04 11:47:34,721, APP : START parsing
+2018-12-04 11:47:37,562, APP : check for 20450099751117 old status ?
+2018-12-04 11:47:37,562, APP : check for 20450103487517 old status 
+2018-12-04 11:47:37,562, APP : check for 20450103544783 old status 
+2018-12-04 11:47:37,562, APP : check for 20450103450052 old status 
+2018-12-04 11:47:37,562, APP : check for 20450103450155 old status 
+2018-12-04 11:47:37,562, APP : check for 59000382964878 old status 
+2018-12-04 11:47:37,562, APP : check for 20450103574088 old status 
+2018-12-04 11:47:37,562, APP : check for 59000211447503 old status ?
+2018-12-04 11:47:37,562, APP : check for 20450017671661 old status ?
+2018-12-04 11:47:37,562, APP : check for 59000211444257 old status ?
+2018-12-04 11:47:37,562, APP : check for 20400020070023 old status ?
+2018-12-04 11:47:37,562, APP : check for 20450017623090 old status ?
+2018-12-04 11:47:37,981, APP : FINISH parsing
+2018-12-04 14:31:36,378, APP : START parsing
+2018-12-04 14:31:38,861, APP : check for 20450099751117 old status ?
+2018-12-04 14:31:38,861, APP : check for 20450103487517 old status 
+2018-12-04 14:31:38,861, APP : check for 20450103544783 old status 
+2018-12-04 14:31:38,861, APP : check for 20450103450052 old status 
+2018-12-04 14:31:38,861, APP : check for 20450103450155 old status 
+2018-12-04 14:31:38,861, APP : check for 59000382964878 old status 
+2018-12-04 14:31:38,861, APP : check for 20450103574088 old status 
+2018-12-04 14:31:38,861, APP : check for 59000211447503 old status ?
+2018-12-04 14:31:38,862, APP : check for 20450017671661 old status ?
+2018-12-04 14:31:38,862, APP : check for 59000211444257 old status ?
+2018-12-04 14:31:38,862, APP : check for 20400020070023 old status ?
+2018-12-04 14:31:38,862, APP : check for 20450017623090 old status ?
+2018-12-04 14:31:39,467, APP : FINISH parsing
+2018-12-04 14:33:04,068, APP : START parsing
+2018-12-04 14:33:05,989, APP : check for 20450099751117 old status ?
+2018-12-04 14:33:05,989, APP : check for 20450103487517 old status 
+2018-12-04 14:33:05,989, APP : check for 20450103544783 old status 
+2018-12-04 14:33:05,989, APP : check for 20450103450052 old status 
+2018-12-04 14:33:05,989, APP : check for 20450103450155 old status 
+2018-12-04 14:33:05,989, APP : check for 59000382964878 old status 
+2018-12-04 14:33:05,989, APP : check for 20450103574088 old status 
+2018-12-04 14:33:05,989, APP : check for 59000211447503 old status ?
+2018-12-04 14:33:05,989, APP : check for 20450017671661 old status ?
+2018-12-04 14:33:05,989, APP : check for 59000211444257 old status ?
+2018-12-04 14:33:05,989, APP : check for 20400020070023 old status ?
+2018-12-04 14:33:05,989, APP : check for 20450017623090 old status ?
+2018-12-04 14:33:06,408, APP : FINISH parsing
+2018-12-04 14:44:52,840, APP : START parsing
+2018-12-04 14:44:55,185, APP : check for 20450099751117 old status ?
+2018-12-04 14:44:55,186, APP : check for 20450103487517 old status 
+2018-12-04 14:44:55,186, APP : check for 20450103544783 old status 
+2018-12-04 14:44:55,186, APP : check for 20450103450052 old status 
+2018-12-04 14:44:55,186, APP : check for 20450103450155 old status 
+2018-12-04 14:44:55,186, APP : check for 59000382964878 old status 
+2018-12-04 14:44:55,186, APP : check for 20450103574088 old status 
+2018-12-04 14:44:55,186, APP : check for 59000211447503 old status ?
+2018-12-04 14:44:55,186, APP : check for 20450017671661 old status ?
+2018-12-04 14:44:55,186, APP : check for 59000211444257 old status ?
+2018-12-04 14:44:55,186, APP : check for 20400020070023 old status ?
+2018-12-04 14:44:55,186, APP : check for 20450017623090 old status ?
+2018-12-04 14:44:55,620, APP : FINISH parsing
+2018-12-05 10:55:31,188, APP : START parsing
+2018-12-05 10:55:32,869, APP : check for 20450099751117 old status 
+2018-12-05 10:55:32,869, APP : check for 20450099602091 old status 
+2018-12-05 10:55:32,870, APP : check for 59000378125443 old status 
+2018-12-05 10:55:32,870, APP : check for 20450099544635 old status 
+2018-12-05 10:55:32,870, APP : check for 59000377945104 old status 
+2018-12-05 10:55:32,870, APP : check for 20450099547288 old status 
+2018-12-05 10:55:32,870, APP : check for 20450099546171 old status 
+2018-12-05 10:55:32,870, APP : check for 20450099546920 old status 
+2018-12-05 10:55:32,870, APP : check for 20450099689231 old status 
+2018-12-05 10:55:32,870, APP : check for 20450099689582 old status 
+2018-12-05 10:55:32,870, APP : check for 20450099546922 old status 
+2018-12-05 10:55:32,870, APP : check for 20450099559747 old status 
+2018-12-05 10:55:32,870, APP : check for 20450099628716 old status 
+2018-12-05 10:55:32,870, APP : check for 20450099560034 old status 
+2018-12-05 10:55:32,870, APP : check for 20450099583396 old status 
+2018-12-05 10:55:32,870, APP : check for 20450099592279 old status 
+2018-12-05 10:55:32,870, APP : check for 20450099715200 old status 
+2018-12-05 10:55:32,870, APP : check for 20450099629346 old status 
+2018-12-05 10:55:32,870, APP : check for 20450103487517 old status 
+2018-12-05 10:55:32,870, APP : check for 20450103544783 old status 
+2018-12-05 10:55:32,870, APP : check for 20450103450052 old status 
+2018-12-05 10:55:32,870, APP : check for 20450103450155 old status 
+2018-12-05 10:55:32,870, APP : check for 59000382964878 old status 
+2018-12-05 10:55:32,870, APP : check for 20450103574088 old status 
+2018-12-05 10:55:32,870, APP : check for 59000211447503 old status 
+2018-12-05 10:55:32,870, APP : check for 20450017671661 old status 
+2018-12-05 10:55:32,871, APP : check for 59000211444257 old status 
+2018-12-05 10:55:32,871, APP : check for 20400020070023 old status 
+2018-12-05 10:55:32,871, APP : check for 20450017623090 old status 
+2018-12-05 10:55:34,177, APP : write new status for 20450099751117 in 2 row
+2018-12-05 10:55:35,982, APP : write new status for 20450099602091 in 3 row
+2018-12-05 10:55:37,080, APP : write new status for 59000378125443 in 4 row
+2018-12-05 10:55:38,031, APP : write new status for 20450099544635 in 5 row
+2018-12-05 10:55:38,964, APP : write new status for 59000377945104 in 6 row
+2018-12-05 10:55:39,897, APP : write new status for 20450099547288 in 7 row
+2018-12-05 10:55:40,816, APP : write new status for 20450099546171 in 8 row
+2018-12-05 10:55:41,755, APP : write new status for 20450099546920 in 9 row
+2018-12-05 10:55:42,733, APP : write new status for 20450099689231 in 10 row
+2018-12-05 10:55:43,686, APP : write new status for 20450099689582 in 11 row
+2018-12-05 10:55:44,635, APP : write new status for 20450099546922 in 12 row
+2018-12-05 10:55:45,572, APP : write new status for 20450099559747 in 13 row
+2018-12-05 10:55:46,508, APP : write new status for 20450099628716 in 14 row
+2018-12-05 10:55:47,437, APP : write new status for 20450099560034 in 15 row
+2018-12-05 10:55:48,367, APP : write new status for 20450099583396 in 16 row
+2018-12-05 10:55:49,294, APP : write new status for 20450099592279 in 17 row
+2018-12-05 10:55:50,219, APP : write new status for 20450099715200 in 18 row
+2018-12-05 10:55:51,172, APP : write new status for 20450099629346 in 19 row
+2018-12-05 10:55:52,113, APP : write new status for 20450103487517 in 20 row
+2018-12-05 10:55:53,149, APP : write new status for 59000211447503 in 26 row
+2018-12-05 10:55:54,817, APP : write new status for 20450017671661 in 27 row
+2018-12-05 10:55:56,673, APP : write new status for 59000211444257 in 28 row
+2018-12-05 10:55:58,377, APP : write new status for 20400020070023 in 29 row
+2018-12-05 10:56:00,216, APP : write new status for 20450017623090 in 30 row
+2018-12-05 10:56:01,130, APP : FINISH parsing

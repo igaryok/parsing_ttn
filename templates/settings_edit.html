@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Settings</title>
+</head>
+<body>
+    <form action="/settings" method="post" >
+        <input type="submit" value="cancel">
+    </form>
+    <p></p>
+    <form action="/save_settings" method="post">
+        <input type="submit" value="save">
+        <table>
+        <tr>
+            <td><label for="alter">alter.ini</label></td>
+            <td><label for="code">code.ini</label></td>
+        </tr>
+        <tr>
+            <td>
+               <textarea id = "alter" name="alter" cols="90" rows="30">
+                {{items[0]}}
+                </textarea>
+            </td>
+            <td>
+                <textarea id="code" name="code" cols="90" rows="30">
+                    {{items[1]}}
+                </textarea>
+            </td>
+        </tr>
+        </table>
+    </form>
+</body>
+</html>

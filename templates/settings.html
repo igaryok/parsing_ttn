@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Settings</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>
+            <form action="/main" method="post" >
+                <input type="submit" value="return">
+            </form>
+            </td>
+            <td>
+            <form action="/settings_edit" method="post">
+                <input type="submit" value="edit settings">
+            </form>
+            </td>
+        </tr>
+    </table>
+    <h3>settings</h3>
+    <table>
+        <tr>
+            <td><label for="alter">alter.ini</label></td>
+            <td><label for="code">code.ini</label></td>
+        </tr>
+        <tr>
+            <td>
+               <textarea id = "alter" name="alter" cols="90" rows="30" disabled="disabled">
+                {{items[0]}}
+                </textarea>
+            </td>
+            <td>
+                <textarea id="code" name="code" cols="90" rows="30" disabled="disabled">
+                    {{items[1]}}
+                </textarea>
+            </td>
+        </tr>
+    </table>
+    <p>credentials</p>
+    <table>
+    {% for item in items[2] %}
+        <tr>
+            <td>{{item}}</td>
+        </tr>
+    {% endfor %}
+    </table>
+    <form action="/upload" method="post" enctype="multipart/form-data">
+        <input type="file" name="file" accept=".json">
+        <p><input type="submit" value="Upload"></p>
+    </form>
+</body>
+</html>

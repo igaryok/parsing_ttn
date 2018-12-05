@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Check TTN</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>
+            <form action="/parsing" method="post">
+                <input type="submit" value="PARSING SHEET">
+            </form>
+            </td>
+            <td>
+            <form action="/settings" method="post">
+                <input type="submit" value="SETTINGS">
+            </form>
+            </td>
+        </tr>
+    </table>
+    <table border="1" cellpadding="5" align="left">
+        <caption>BASE OF TTN</caption>
+        <thead>
+        <tr>
+            <th>TTN</th>
+            <th>STATUS CODE</th>
+            <th>STATUS TEXT</th>
+            <th>NUMBER ROW</th>
+            </tr>
+        </thead>
+        {%if items%}
+        {% for item in items %}
+        <tr>
+            <td>{{item.number}}</td>
+            <td>{{item.status_text}}</td>
+            <td>{{item.status_symbol}}</td>
+            <td>{{item.row_in_sheet}}</td>
+        </tr>
+        {% endfor %}
+        {%endif%}
+    </table>
+</body>
+</html>
